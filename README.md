@@ -26,7 +26,7 @@ These days I build with **AI in the loop** — from spec to ship. It's made me d
 - **[Elden Ring — Codex of the Fractured Order](https://github.com/KCMO4/Elden-Ring-Codex)** — a lore wiki I went deep on: **382 cross-referenced entries**, every link script-verified (zero broken refs), full i18n, architected so the DLC slots in inline. React SPA.
 - **[Elden Ring Build Advisor](https://github.com/KCMO4/elden-ring-build-advisor)** — point it at your `.sl2` save; it parses the binary and tells you which weapons your build can *actually* wield. React · Node · Docker.
 - **FitFlow** *(private)* — end-to-end WhatsApp automation for gyms: bookings, reminders, conversational flows. n8n · Evolution API · Supabase.
-- **SinTACC Córdoba** *(private)* — a gluten-free places PWA for my city: live map, smart search, filters. Next.js.
+- **Cashflow** *(private)* — a personal finance app to track my income, spending and cash flow.
 
 ### the stack I reach for
 
