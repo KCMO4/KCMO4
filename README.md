@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KCMO4/KCMO4/main/assets/header.svg" width="660" alt="KCMO4" />
+  <img src="https://raw.githubusercontent.com/KCMO4/KCMO4/main/assets/header.svg?v=2" width="660" alt="KCMO4" />
 </p>
 
 <p align="center">
