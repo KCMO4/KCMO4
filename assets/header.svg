@@ -36,5 +36,5 @@
 
   <text x="390" y="234" text-anchor="middle"
         font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace"
-        font-size="13" letter-spacing="1.5" fill="#6e7681">// senior software engineer · building autonomous agents <tspan fill="#e6edf3">█<animate attributeName="opacity" values="1;1;0;0" dur="1.06s" repeatCount="indefinite"/></tspan></text>
+        font-size="13" letter-spacing="1.5" fill="#6e7681">// senior software engineer · building with AI <tspan fill="#e6edf3">█<animate attributeName="opacity" values="1;1;0;0" dur="1.06s" repeatCount="indefinite"/></tspan></text>
 </svg>

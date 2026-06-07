@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <em>Senior engineer · 7 years deep in TypeScript · now teaching machines to do the boring parts.</em>
+  <em>Senior software engineer · 7 years in TypeScript · I build with AI and ship fast.</em>
 </p>
 
 ---
@@ -12,14 +12,14 @@
 
 I'm **Javier** (R. J. Siacca) — a senior software engineer in **Córdoba, Argentina** 🇦🇷, currently at GlobalLogic. Seven years shipping React, Angular and Node, front to back.
 
-These days my nights go to the thing that made coding exciting again: **autonomous agents** — getting models to plan, call real tools, and not lie about the result. I like systems that, once built, quietly run themselves.
+These days I build with **AI in the loop** — from spec to ship. It's made me dangerously fast: I prototype, refactor and review with models as a constant pair, and spend the time it saves on the parts that actually need a human — architecture, edge cases, and the calls that matter. I like systems that, once built, quietly run themselves.
 
-### what I'm into right now
+### how I build
 
-- Agents that actually *do* things — tool-use, planning, memory, hand-offs
-- **MCP** servers & clients, to wire models into real systems
-- RAG that retrieves the *right* thing — and evals that prove it did
-- The unglamorous 20%: guardrails, observability, making it reliable in production
+- **AI-native** — models in the loop for spec, prototyping, refactors and review. Faster iterations, sharper focus.
+- Production **TypeScript** across the stack — React, Angular, Node, Next.js.
+- Architecture & data integrity that survive contact with reality.
+- Automations that, once set up, run themselves.
 
 ### things I've built
 
@@ -32,7 +32,7 @@ These days my nights go to the thing that made coding exciting again: **autonomo
 
 `TypeScript` · `React` · `Angular` · `Next.js` · `Node` · `Supabase / Postgres` · `Docker` · `n8n`
 
-*Lately:* `Claude` · `OpenAI` · `Vercel AI SDK` · `LangChain` · `MCP`
+*…and I build all of it with AI in the loop.*
 
 ### elsewhere
 
@@ -40,4 +40,4 @@ These days my nights go to the thing that made coding exciting again: **autonomo
 
 <br>
 
-<sub><i>Make it correct, then make it autonomous.</i></sub>
+<sub><i>Let the model type. Keep the judgment.</i></sub>
