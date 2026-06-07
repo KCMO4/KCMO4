@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 256" width="780" height="256" role="img" aria-label="KCMO4">
+  <defs>
+    <linearGradient id="rgb" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="360" y2="0" spreadMethod="repeat">
+      <stop offset="0"    stop-color="#ff2e63"/>
+      <stop offset="0.16" stop-color="#ff8c00"/>
+      <stop offset="0.33" stop-color="#ffe600"/>
+      <stop offset="0.50" stop-color="#28e07a"/>
+      <stop offset="0.66" stop-color="#22b8ff"/>
+      <stop offset="0.83" stop-color="#9b5cff"/>
+      <stop offset="1"    stop-color="#ff2e63"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="360 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-60%" width="160%" height="220%">
+      <feGaussianBlur stdDeviation="2" result="blur">
+        <animate attributeName="stdDeviation" values="1.2;3;1.2" dur="3.2s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="778" height="254" rx="16" fill="#0d1117" stroke="#21262d" stroke-width="1.5"/>
+
+  <text xml:space="preserve" y="52" text-anchor="middle"
+        font-family="'JetBrains Mono','Cascadia Code','DejaVu Sans Mono',Consolas,monospace"
+        font-size="24" font-weight="700" fill="url(#rgb)" filter="url(#glow)">
+    <tspan x="390" dy="0">██╗  ██╗  ██████╗ ███╗   ███╗  ██████╗  ██╗  ██╗</tspan>
+    <tspan x="390" dy="30">██║ ██╔╝ ██╔════╝ ████╗ ████║ ██╔═══██╗ ██║  ██║</tspan>
+    <tspan x="390" dy="30">█████╔╝  ██║      ██╔████╔██║ ██║   ██║ ███████║</tspan>
+    <tspan x="390" dy="30">██╔═██╗  ██║      ██║╚██╔╝██║ ██║   ██║ ╚════██║</tspan>
+    <tspan x="390" dy="30">██║  ██╗ ╚██████╗ ██║ ╚═╝ ██║ ╚██████╔╝      ██║</tspan>
+    <tspan x="390" dy="30">╚═╝  ╚═╝  ╚═════╝ ╚═╝     ╚═╝  ╚═════╝       ╚═╝</tspan>
+  </text>
+
+  <text x="390" y="234" text-anchor="middle"
+        font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace"
+        font-size="13" letter-spacing="1.5" fill="#6e7681">// senior software engineer · building autonomous agents <tspan fill="#e6edf3">█<animate attributeName="opacity" values="1;1;0;0" dur="1.06s" repeatCount="indefinite"/></tspan></text>
+</svg>
